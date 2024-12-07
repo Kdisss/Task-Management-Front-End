@@ -11,7 +11,7 @@ return (
     <div className='flex justify-center w-full mb-10 right-side-part'>
     <TaskList/>
     </div>
-</div>
+</div>)
 }
 
 export default Home
