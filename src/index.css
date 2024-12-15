@@ -34,3 +34,7 @@ code {
   /* background: linear-gradient(90deg, #000000, #032d3d, #030038) !important;*/
 } 
 
+.customButton{
+  background-image: linear-gradient(150deg, #2600ff, #000000);
+  color: #fff;
+}
